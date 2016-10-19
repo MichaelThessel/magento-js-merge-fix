@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+  <global>
+    <modules>
+      <MichaelThessel_JsMergeFix>
+        <version>0.1.0</version>
+      </MichaelThessel_JsMergeFix>
+    </modules>
+    <helpers>
+      <core>
+        <rewrite>
+          <data>MichaelThessel_JsMergeFix_Helper_Data</data>
+        </rewrite>
+      </core>
+    </helpers>
+  </global>
+</config>
